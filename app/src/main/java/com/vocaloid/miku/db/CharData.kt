@@ -106,31 +106,7 @@ object CharData {
                     R.drawable.vocaloid_logo,
                     0,
                     "https://project-diva.fandom.com/wiki/GUMI"
-            ),
-            arrayOf(
-                    "Hatsune Miku_2",
-                    "Sex: Female",
-                    "Age: 16",
-                    "Hatsune Miku (初はつ音ねミク?) is the titular character of Hatsune Miku: Project DIVA who has starred in every game in the series. She is based off the avatar of the voicebank of the same name produced by Crypton Future Media and originally released for VOCALOID 2, a singing synthesizer software.",
-                    "8/31",
-                    "Saki Fujita",
-                    R.drawable.miku,
-                    R.drawable.vocaloid_logo,
-                    0,
-                    "https://project-diva.fandom.com/wiki/Hatsune_Miku"
-            ),
-            arrayOf(
-                    "Kagamine Rin_2",
-                    "Sex: Female",
-                    "Age: 14",
-                    "Kagamine Rin (鏡かがみ音ねリン?) is a character in the Hatsune Miku: Project DIVA series.",
-                    "N/A",
-                    "Asami Shimoda",
-                    R.drawable.rin,
-                    R.drawable.vocaloid_logo,
-                    0,
-                    "https://project-diva.fandom.com/wiki/Kagamine_Rin"
-            ),
+            )
     )
 
     val listData: ArrayList<VocaloidCharModel>
