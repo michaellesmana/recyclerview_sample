@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vocaloid Character Wiki</string>
+    <string name="about">About</string>
+    <string name="birthday">Birthday:</string>
+    <string name="voice_actor">Voice Actor:</string>
+    <string name="intro">Intro</string>
+</resources>
